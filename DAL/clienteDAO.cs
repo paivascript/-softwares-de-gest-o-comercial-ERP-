@@ -1,5 +1,5 @@
 using MercadoSeuZe.Modelo;
-using MySql.Data.MySqlClient;
+using MySqlConnector;
 using System.Data;
 using System.Windows.Forms;
 
